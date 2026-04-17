@@ -27,7 +27,7 @@ I focus on translating complex biological phenomena into predictive models, ensu
 
 ---
 
-### Research Interests & Collaboration
-* **Focus:** Bioinformatics, Mechanistic Systems Biology, and Computational Biology
+### Research Interests
+* **Interests:** Bioinformatics, Mechanistic Systems/Synthetic Biology, and Computational Biology
 * **Goal:** Advancing methodological research in neurodegeneration to bridge the gap between mathematical theory and clinical application
 

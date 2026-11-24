@@ -7,27 +7,35 @@ I focus on translating complex biological phenomena into predictive models, ensu
 
 ---
 
-### Technical Stack
-* **Scientific Computing:** MATLAB (SimBiology, ODE15s, ODE45), R (Tidyverse, dplyr)
-* **Quantitative Methods:** Mechanistic Modelling, Machine Learning, Non-linear ODEs, Sensitivity Analysis, Neural Networks, Lineweaver-Burk Plotting, Enzyme Kinetic Characterisation
-* **Data Engineering:** Clinical Data Pipelines, Z-score Outlier Detection, Diagnostic Accuracy Metrics (Sensitivity/Specificity)
-* **Documentation:** LaTeX, Markdown
+## Technical Stack
+
+* **Molecular Modelling & Simulation:** AMBER (ff19SB, OPC, PeptideForge), VMD, PyMOL, AlphaFold, Molecular Dynamics (Atomistic & Coarse-Grained), Force Field Parameterisation
+* **Scientific Computing & Automation:** Python (Pandas, NumPy, Jupyter Notebook), MATLAB (SimBiology, ODE15s, ODE45), R (Tidyverse, dplyr), Opentrons OT-2 API, Linux/Bash (HPC)
+* **Quantitative & ML Methods:** Bayesian Optimisation, Design of Experiments (DoE), Mechanistic ODE Modelling, Sensitivity Analysis, Monte Carlo Methods, LASSO/Ridge Regularisation, Random Forests, Gradient Boosting, PCA, Neural Networks
+* **Data Engineering & CAD:** Clinical Data Pipelines, Z-score Outlier Detection, Diagnostic Accuracy Metrics (Sensitivity/Specificity), AutoCAD, SLA/FDM 3D Printing
+* **Documentation & Version Control:** Git/GitHub, LaTeX, Markdown
 
 ---
 
-### Technical Strategy
-* **Mechanistic Modelling for Wet Lab Support:** I develop computational tools designed to accelerate and refine **wet lab processes**. By developing mechanistic models, I simulate biochemical outcomes before they reach the bench, allowing for precision-led experimental design and resource optimisation
-* **Computational Biology:** Leveraging R and MATLAB to build clinical data pipelines and develop QSP models, which model pathology kinetics and PK/PD of drugs
-* **Translational Systems Biology:** Implementing mathematical biochemistry to evaluate complex systems. I specialise in using differential equations to bridge the gap between theoretical math (learned through my course and beyond) and wet lab research findings, particularly in enzyme kinetics and metabolic flux
+## Technical Strategy
 
----
-### Current Projects
-* **Neurodegenerative Mechanistic Models:** Developing MATLAB frameworks to simulate Tau protein aggregation pathways
-* **Clinical Data Pipeline (R):** End-to-end processing and statistical validation of patient dosage responses and diagnostic accuracy
+* **In Silico Screening & Molecular Dynamics:** I run atomistic and coarse-grained MD simulations on HPC clusters to model macromolecular assemblies, parameterise force fields and screen peptide-solvent thermodynamic stability before moving to the bench
+* **Closed-Loop Lab Automation & Wet Lab Support:** I bridge computational models with physical execution by pairing Bayesian optimisation and DoE with custom Python protocols for Opentrons OT-2 liquid handlers and AutoCAD-designed 3D-printed hardware
+* **Quantitative Systems Pharmacology (QSP):** Leveraging MATLAB, R, and Python to build clinical data pipelines and non-linear ODE frameworks that simulate pathology kinetics, enzyme mechanisms and drug PK/PD
 
 ---
 
-### Research Interests
-* **Interests:** Bioinformatics, Mechanistic Systems/Synthetic Biology, and Computational Biology
-* **Goal:** Advancing methodological research in neurodegeneration to bridge the gap between mathematical theory and clinical application
+## Current Projects
+
+* **Microtubule Lattice & Tubulin MD Simulations (AMBER / Python):** Engineered atomistic tubulin heterodimer models from PDB structures and executed multi-nanosecond HPC simulations across NVT/NPT ensembles, paired with Python coordinate-transformation routines to build 13-protofilament microtubule lattices.
+* **Automated Peptide Therapeutic Formulation (Python / AMBER / OT-2):** Combining in silico MD screening (PeptideForge) with Bayesian optimisation, Opentrons OT-2 liquid-handling scripts, and custom CAD-fabricated deck adapters for high-throughput peptide-DES formulation
+* **Neurodegenerative Mechanistic Models (MATLAB):** Developing ODE frameworks to simulate Tau protein nucleation and fibril elongation pathways, evaluating anti-tau antibody efficacy via linear algebra sensitivity analysis
+* **Clinical Data Pipeline (R):** End-to-end preprocessing, Z-score anomaly removal, and statistical validation of patient dosage responses and diagnostic accuracy
+
+---
+
+## Research Interests
+
+* **Interests:** Computational Biochemistry, Molecular Dynamics, Closed-Loop Lab Automation, Mechanistic Systems Biology and QSP
+* **Goal:** Advancing methodological research in neurodegeneration and therapeutic formulation by bridging molecular simulation, mathematical theory, and automated wet-lab execution
 

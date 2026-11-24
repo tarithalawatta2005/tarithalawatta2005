@@ -1,7 +1,7 @@
 # Tarith Alawatta
 ### MSci Natural Sciences | Computational Biology & Mechanistic Modeling
 
-I am a 2nd-Year MSci Natural Sciences student interested in the intersection between **biochemical mechanisms** and **mathematical frameworks**. Due to the interdisciplinary nature of Natural Sciences, I can bridge the gap between mathematical computation and the physical constraints of the wet lab. 
+I am a 3rd Year MSci Natural Sciences student interested in the intersection between **biochemical mechanisms** and **mathematical frameworks**. Due to the interdisciplinary nature of Natural Sciences, I can bridge the gap between mathematical computation and the physical constraints of the wet lab. 
 
 I focus on translating complex biological phenomena into predictive models, ensuring that data analytics and in silico simulations are always informed by structural biochemistry and chemical kinetics.
 
